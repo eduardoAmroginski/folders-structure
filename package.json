@@ -1,0 +1,29 @@
+{
+  "name": "create-folders-structure",
+  "version": "1.0.0",
+  "description": "CLI para criação de estruturas de pastas, criado em NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoAmroginski/mvc-structure.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MVC",
+    "react",
+    "MVVM",
+    "Structure",
+    "JavaScript"
+  ],
+  "type": "module",
+  "author": "Eduardo Amroginski Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardoAmroginski/mvc-structure/issues"
+  },
+  "homepage": "https://github.com/eduardoAmroginski/mvc-structure#readme"
+}
